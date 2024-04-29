@@ -1,1 +1,1 @@
-https://replit.com/@SadeqRezai/Your-index#main.py
+https://replit.com/@SadeqRezai/Your-index
